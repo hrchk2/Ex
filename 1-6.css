@@ -1,0 +1,37 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+.main-visual-content1{
+  background-image: url(1-6img/box1.jpg);
+  height:200px;
+  background-size:cover;
+  background-position:center;
+}
+
+
+.main-visual-content2{
+  background-image: url(1-6img/box2.jpg);
+  height:200px;
+  background-size:cover;
+  background-position:center;
+}
+
+
+.main-visual-content3{
+  background-image: url(1-6img/box3.jpg);
+  height:200px;
+  background-size:cover;
+  background-position:center;
+}
+
+
+.main-visual-content4{
+  background-image: url(1-6img/box4.jpg);
+  height:200px;
+  background-size:cover;
+  background-position:center;
+}
