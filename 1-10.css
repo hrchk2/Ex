@@ -71,17 +71,17 @@ footer {
   width: 100%;
   margin: 50px auto;
   display:inline-block ;
-}
+  }
 
 .step-box {
   width:90%;
   margin:0 auto 20px;
   position: relative;
   background-color: #eee;
-}
+  }
 
 .step-box:last-child {
   margin:0 auto 0;
-}
-
+  }
+  
 }
